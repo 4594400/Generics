@@ -1,4 +1,4 @@
-<project name="ant-my-example" basedir=".">
+<project name="generics" basedir=".">
 
     <property name="src" location="src/main/java/enterprise/module_2"/>
     <property name="build" location="build"/>
